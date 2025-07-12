@@ -6,7 +6,7 @@ Bu ödevde, `ai/` klasöründe bulunan **YOLOv4 model dosyaları** ile `img/` kl
 
 - YOLOv4 kullanılarak **bounding box** çizilecek,  
 - Görsel **popup olarak gösterilecek**,  
-- Ve her tespit için **bounding box koordinatları terminale yazdırılacak. **
+- Ve her tespit için **bounding box koordinatları terminale yazdırılacak.**
 - ! ai/ dosyasında eksik var https://github.com/AlexeyAB/darknet/releases/download/yolov4/yolov4.weights bu linkteki dosyayı indir ve ai/ dosyasına ekle ihtiyacın olacak.
 
 ---
